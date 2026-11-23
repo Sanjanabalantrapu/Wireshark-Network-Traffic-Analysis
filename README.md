@@ -23,6 +23,13 @@ This project explores basic network traffic analysis using Wireshark. The goal i
 - Understood how network communication can be observed.
 - Learned the basic structure of a network packet.
 - Started identifying common network protocols.
+- ### DNS Analysis
+- Applied the `dns` display filter in Wireshark.
+- Observed DNS queries for `web.whatsapp.com`.
+- Identified DNS record types:
+  - A – Requests an IPv4 address.
+  - AAAA – Requests an IPv6 address.
+- Understood the difference between DNS queries and responses.
 
 ## Project Status
 Beginner-level practical project — currently in progress.
